@@ -114,15 +114,17 @@ The dataset is commonly used for business analytics and exploratory data analysi
 
 ### Revenue Trend Analysis
 
-(Add screenshot here)
+<img width="1484" height="584" alt="Monthly Revenue Growth" src="https://github.com/user-attachments/assets/b8220a7f-4e32-4725-bfc0-86ea6c57d8a8" />
 
 ### Product Performance Analysis
 
-(Add screenshot here)
+<img width="1184" height="1784" alt="Product analysis" src="https://github.com/user-attachments/assets/0a9700f1-a82b-4331-bf4b-77088c4bc4a9" />
+
 
 ### Regional Analysis
 
-(Add screenshot here)
+<img width="984" height="584" alt="region analysis" src="https://github.com/user-attachments/assets/ae095f04-29c3-46ec-9372-9adcf9e4c5bd" />
+
 
 ---
 
@@ -131,7 +133,7 @@ The dataset is commonly used for business analytics and exploratory data analysi
 1. Clone this repository.
 
 ```bash
-git clone <repository-link>
+git clone <[repository-link](https://github.com/muskanalidev/synent-task5-salesanalysis-muskanali-)>
 ```
 
 2. Install required libraries.
